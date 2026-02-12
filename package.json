@@ -33,16 +33,16 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/uzochukwueddie/agent.git"
+    "url": "https://github.com/uzochukwueddie/tunnel.git"
   },
   "publishConfig": {
     "registry": "https://npm.pkg.github.com",
     "@uzochukwueddie:registry": "https://npm.pkg.github.com"
   },
   "bugs": {
-    "url": "https://github.com/uzochukwueddie/agent/issues"
+    "url": "https://github.com/uzochukwueddie/tunnel/issues"
   },
-  "homepage": "https://github.com/uzochukwueddie/agent#readme",
+  "homepage": "https://github.com/uzochukwueddie/tunnel#readme",
   "engines": {
     "node": ">=22.16.0"
   },
